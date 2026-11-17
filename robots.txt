@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://daltonwaterdamagepros.com/sitemap.xml
